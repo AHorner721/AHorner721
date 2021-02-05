@@ -1,8 +1,8 @@
-### Hi there, I'm Ashly Horner 👋
+### Hi there, my name is Ashly Horner 👋
 
 ## I'm a Veteran, Developer, and Computer Science Student
 
-- 🔭 I’m currently working on a political progressive web app using node, express, and ejs. (Releasing December 2020)
+- 🔭 I’m currently working on a political progressive web app using node, express, and ejs. (Releasing Feb 2021)
 - 🌱 I’m currently learning server-side programming
 - 👯 I’m looking to collaborate on Content Management Systems
 - ⚡ Fun fact: I love to draw and talk about anime
