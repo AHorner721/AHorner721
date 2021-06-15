@@ -1,8 +1,8 @@
 ### Hi there, my name is Ashly Horner 👋
 
-## I'm a Veteran, Developer, and Computer Science Student
+## I'm a Veteran, Developer, and Computer Science Major from Jackson State University
 
-- 🔭 I’m currently working on a political progressive web app using node, express, and ejs. (Releasing Feb 2021)
+- 🔭 I’m currently working on a Next.js Blog application.
 - 🌱 I’m currently learning server-side programming
 - 👯 I’m looking to collaborate on Content Management Systems
 - ⚡ Fun fact: I love to draw and talk about anime
