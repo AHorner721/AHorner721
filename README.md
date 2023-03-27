@@ -1,8 +1,7 @@
 ### Hi there, my name is Ashly Horner 👋
 
-## I'm a Veteran, Developer, and Computer Science Major from Jackson State University
+## I'm a USMC Veteran, Web Developer, and Computer Science Major from Jackson State University
 
-- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently diving deep into CSS
 - 👯 I’m looking to build frontend applications
 - ⚡ Fun fact: I love to draw and talk about anime
