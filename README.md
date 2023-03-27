@@ -7,10 +7,6 @@
 - 👯 I’m looking to build frontend applications
 - ⚡ Fun fact: I love to draw and talk about anime
 
-### Connect with me:
-[<img align="left" alt="Ash | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ash | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and tools
