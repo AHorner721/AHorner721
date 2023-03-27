@@ -2,9 +2,9 @@
 
 ## I'm a Veteran, Developer, and Computer Science Major from Jackson State University
 
-- 🔭 I’m currently working on a Next.js Blog application.
-- 🌱 I’m currently learning server-side programming
-- 👯 I’m looking to collaborate on Content Management Systems
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently diving deep into CSS
+- 👯 I’m looking to build frontend applications
 - ⚡ Fun fact: I love to draw and talk about anime
 
 ### Connect with me:
@@ -25,7 +25,6 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/ashDev2020
 [linkedin]: https://www.linkedin.com/in/ashly-horner-85687856/
 <!--
 **AHorner721/AHorner721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
