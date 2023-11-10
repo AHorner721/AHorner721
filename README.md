@@ -1,8 +1,8 @@
-### Hi there, my name is Ashly Horner 👋
+### Hi there, my name is Ashly Horner (aka Ash) 👋  
 
 ## I'm a USMC Veteran, Web Developer, and a Jackson State University Alumni 🙂
 
-- 🌱 I’m currently diving deep into CSS
+- 🌱 I’m currently diving deep into .Net and React
 - 👯 I’m looking to build frontend applications
 - ⚡ Fun fact: I love to draw and talk about anime
 
